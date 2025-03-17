@@ -1,5 +1,20 @@
 # Changelog
 
+## [23.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.8.0...v23.9.0) (2025-03-17)
+
+
+### Features
+
+* **add:** 07504L ([#9005](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9005)) ([66072f4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/66072f484fbb7076789c900b23bf392d9295b88f))
+* **add:** GWA1502 ([#9009](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9009)) ([c02c960](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c02c960d35b4d48788e0be26fd2c33df6eabb1dd))
+* Cando C203: improve support ([#8907](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8907)) ([23d5ee6](https://github.com/Koenkk/zigbee-herdsman-converters/commit/23d5ee680b17eafcaa044916fa7046ed4a8a4268))
+
+
+### Bug Fixes
+
+* Fixes for PST POW v2 and PST POW DUO v2 ([#9010](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9010)) ([8a206dc](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8a206dc5feeb180928a9db609c6513572547fcd0))
+* Third Reality 3RSMR01067Z: expose `occupancy` ([#8925](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8925)) ([efee803](https://github.com/Koenkk/zigbee-herdsman-converters/commit/efee8037ae11c14ed06f718d00725e1c8b1ea21a))
+
 ## [23.8.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.7.0...v23.8.0) (2025-03-16)
 
 
